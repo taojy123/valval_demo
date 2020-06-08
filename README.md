@@ -2,6 +2,9 @@
 
 demo for https://github.com/the-benchmarker/web-frameworks/issues/2892
 
+## Requirements
+- v-language: 0.1.24
+- valval: 0.1.4
 
 ## Run Server
 ```

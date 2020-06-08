@@ -11,6 +11,7 @@ git clone https://github.com/taojy123/valval
 ln -s $(pwd)/valval ~/.vmodules/valval 
 
 git clone https://github.com/taojy123/valval_demo
+cd valval_demo
 v run main.v
 ```
 

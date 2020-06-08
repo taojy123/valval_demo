@@ -11,6 +11,7 @@ demo for https://github.com/the-benchmarker/web-frameworks/issues/2892
 docker run -it --rm -p 8012:8012 taojy123/vlang:v0.1.24 bash
 
 git clone https://github.com/taojy123/valval
+mkdir -p ~/.vmodules
 ln -s $(pwd)/valval ~/.vmodules/valval 
 
 git clone https://github.com/taojy123/valval_demo
